@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-11-29T23:18:00.219485Z",
+  "seed": 42,
+  "max_len": 512,
+  "batch_size": 8,
+  "epochs": 3,
+  "lr": 2e-05,
+  "weight_decay": 0.01,
+  "model_name": "distilbert-base-uncased",
+  "data_proposals": "/content/drive/MyDrive/finalExperiment9/proposals_parsed.jsonl",
+  "data_aave_posts": "/content/drive/MyDrive/daoDataset/aave_proposals_with_posts_fixed.jsonl",
+  "artifacts_dir": "/content/drive/MyDrive/finalExperiment9",
+  "model_dir": "/content/drive/MyDrive/finalExperiment9/models/proposal_outcome_distilbert"
+}

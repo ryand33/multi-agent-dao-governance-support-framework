@@ -1,0 +1,192 @@
+proposal_id,y_true,y_pred,pred_conf,P_pass,stance_mean,n_posts,title_snippet,body_snippet
+0x192a24fd2b3e1860ce4570c0773d82ab895d27cabf48dddd9bafba7e4e13851e,0,2,0.8441343162091596,0.9092164,0.08676168220848761,16,[ARFC] Upgrade Aave V3 ETH pool wETH parameters,"## Summary
+
+A proposal to make parameter changes on Aave V3 Ethereum. For more details, see the full forum post [here](https://governance.aave.com/t/arfc-upgrade-aave-v3-eth-pool-w…"
+0xe3a29b7d6d936a22ee340811f842a29e4be654e08972f53f43dde7748c722195,0,2,0.7903219563579885,0.8372896,0.16552238418756288,7,[ARFC] LT/LTV Reductions on Aave V2 Stablecoins,"# Summary
+
+A proposal to reduce LT and LTV for USDC on Aave V2
+
+# Motivation
+
+Following our [ongoing reduction](https://governance.aave.com/t/generalized-lt-ltv-reduction-on-aave/1…"
+0x34a735f4cbb0c91febe9e26a974811737b656fde16c82310073a821d3a654304,1,0,0.732606596800159,0.2672866,0.2569850259861409,10,[ARFC] Gauntlet - Synchronicity Price Adapter “Killswitch” Functionality for LST Emode,"## Summary
+
+Given limitations in the current CSPA 2.0, Aave v3 faces insolvency risks in the scenario of severe price dislocations between LST market price and LST smart contract p…"
+0x512d69e2f0827112f58c592affbcf5e14367645ce2f501a2429eb01cfba73b57,2,1,0.7294001037867981,0.51232505,0.1400559855474008,46,Community Guardian renewal,"The Aave V3 markets with the exception of the Polygon market are currently operated by a community guardian 6/10 multisig composed of members of the DeFi community.
+
+The community …"
+0xab2381e2fcda147ec0ab8417a09c0a6188fce034c12d0c0c42a43b8cbbea8db4,2,0,0.7222062153112805,0.4172725,0.12610424000837966,5,[ARC] Gauntlet Risk Parameter Updates for Avalanche Aave V3 (2023-02-16),"## Simple Summary
+Gauntlet's risk simulation platform has identified an opportunity to modify liquidation bonus on one (1) Aave V3 AVAX asset without adding outsized market risk.
+
+…"
+0x05182d6092e7a075b94ab937a6cd57968f36c6ac225196561a58b437e591065f,2,1,0.711915413039913,0.4486685,0.0033382980136184045,14,[ARFC] Deploy BAL & aBAL from the Collector Contract,"---
+
+[ARFC] Deploy BAL & aBAL from the Collector Contract
+Author: @llamaxyz - DeFi_Consulting (@MatthewGraham) and @dydymoon
+Created: 2023-02-05 (updated)
+
+---
+
+# Simple Summary
+
+T…"
+0x22621f3f49e99270faf063d41bc894862052f053c020991a85b973fe2d50bbdf,0,1,0.652748048003215,0.40270162,0.07809538098435909,16,[TEMP CHECK] Aave Decentralized Acqui-Hire Framework,"**Title**: Aave Permissionless Acqui-Hire Framework.
+**Author**: DAO Merger.
+**Date**: 2025-03-17
+
+**Summary**: In a Darwinian world with (too) many tokens, there should be a way t…"
+0x2aed7eb8b03cb3f961cbf790bf2e2e1e449f841a4ad8bdbcdd223bb6ac69e719,2,0,0.6493517899734413,0.577275,0.233396664353409,35,[ARFC] Launch GHO on Avalanche & set ACI as Emissions Manager for rewards,"## Author: ACI
+
+## Date: 2024-10-07
+
+----------
+> ARFC has been updated with latest Risk Parameters provided by Risk Service Providers. 2024-10-11
+
+---
+
+
+# **Summary**
+
+This propos…"
+0x0341f4050ed20182c2c344fb370d958f8f77f7035c4783408dd0f962b7d39544,0,2,0.6350251366326122,0.8696679,0.1406424543887291,52,[TEMP CHECK] AAVE Treasury Proposal for RWA Allocation with Maple Finance ,"---
+
+Title: [TEMP CHECK] AAVE Treasury Proposal for RWA Allocation with Maple Finance 
+
+Author: @Maple_Direct
+
+Created: 2023-11-20
+
+---
+
+# Summary
+
+Maple Finance would like to prop…"
+0x1a9deb5c46818aad1a128e65821ecab82fe8c9e01b82551b080f4059f871e91e,2,0,0.6348700413440886,0.45807144,0.33402040885512235,2,[ARFC] Receipt of Gauntlet Insolvency Fund,"---
+
+Title: [ARFC] Receipt of Gauntlet Insolvency Fund
+Author: @llamaxyz
+Dated: 2022-11-06
+
+---
+
+
+# Simple Summary
+
+Llama proposes that Gauntlet's Insolvency Fund be transferred to…"
+0x5766ada34f3089572896e9f2b4fad17e6856dc4126ca9be3fcef3303bd72bfb0,2,0,0.621173098953796,0.60940975,0.14582384521818534,30,[TEMP CHECK] - Whitelist Hashflow Wormhole For V3 Portals,"## Proposal
+Wormhole is a leading cross-chain interoperability protocol, allowing generic messaging over 22 heterogenous blockchains 1 and soon to be many more.
+
+Since launch on ma…"
+0x7c6261b04115e79c63cffb1602295836df36883fc76fc899bce3345c2beaeba3,2,1,0.6188790432870059,0.54685766,0.08678577305358133,46,Deploy Aave V3 on Arbitrum One,"Summary
+
+Arbitrum One is the leading Ethereum Rollup, and has seen significant traction over the last several months. Arbitrum One has hundreds of live applications and infrastruct…"
+QmVqWgpRmoEvvhvXZFepmAgYU5ZK9XpSs39MExEUpiJZw3,2,1,0.5939521225018832,0.5460946,0.11078547618351,33,ARC - Strategic Partnership with Balancer Part #2,"---
+
+title: ARC - Strategic Partnership with Balancer Part #2
+status: Discussion
+author: Llama Community - @MatthewGraham
+created: 03-05-2022
+
+---
+
+# Simple Summary
+
+Acquire 100,00…"
+QmbjtJ9qxTRQDa8sehDPHfZmSr9QYrB98yoFhJU4YzJoic,2,0,0.5893749728324187,0.6368888,0.12039274377365634,39,Enable $AXS as collateral on Aave?,"Sentence Rational
+
+Enable $AXS lending market on Aave.
+
+References
+
+Link to:
+
+Project, [https://axieinfinity.com/ 12 ]
+Getting started, [Axie Community Alpha: Getting Started! - by…"
+QmZvNZLEvpEvrmaKkzKUxUvpadT9rZHN4uSkKxzEuUnFSb,2,0,0.5866513544345819,0.6055466,0.044762811450176056,29,ARC: Risk Parameter Updates for Aave V2 and Aave Arc (Fireblocks) 2022-05-26,"## Simple Summary
+
+A proposal to adjust nine (9) total risk parameters, including LTV, Liquidation Threshold, and Liquidation Bonus across three (3) Aave V2 assets. 
+
+In addition, …"
+0xcbb588f0030f7726da3d065a30c2500652bbd0def6ca5f5f17a82daca777578e,2,0,0.5854653944945597,0.69420475,0.1069990352348045,84, [Temp Check] Add Support for cbETH for Aave V3,"Title: [ARC] Add Support for cbETH
+Author: @Fig Lead Governance Contributor at Flipside Crypto, with additional support from @AndrewA, a Protocol Specialist at Coinbase
+Created: 10…"
+0xb06bac2b74fb2fafcfb21492c938f03a52a389d545b9975f8dc926374e966b04,0,2,0.5843034182974435,0.8358481,0.0847595206683746,49,[ARC] Onboard rETH (rocket pool ETH) to Aave V3 ethereum market,"[ARC] onboard rETH (rocket pool ETH) to Aave V3 ethereum market
+References:
+
+Link to:
+
+Website: https://rocketpool.net/ 11
+Whitepaper: Rocket Pool — Staking Protocol Part 1 | by Da…"
+0xbda28d65ca4d64005e6019948ed52d9d62c9e73e356ab1013aa2d4829f40c735,2,0,0.5661656979732859,0.50684494,-0.05959241862678014,43,[ARC] Gauntlet Interest Rate Curve Recommendations for Aave V3 Markets (Feb 2023),"# Simple Summary
+
+Gauntlet proposes adjusting interest rate parameters and reserve factors for assets on Aave’s active V3 markets (Ethereum, Arbitrum, Avalanche, Optimism, Polygon)…"
+0x1c3363b370ce0756f5a63969a7652571756b7edecb3885224c2d3cae87259b9e,2,0,0.5614017402238921,0.26865295,0.3854794806622444,11,Governance Frtamework for Portals,"[ARC] - Portals governance framework
+Portals is a powerful Aave V3 feature allowing to supercharge cross-chain bridges liquidity.
+
+Portals have been presented in this governance th…"
+bafkreiasu3ha5kldlsqukqu7vq3ar7bujgd6qkvwxsx34smjscplemonua,2,0,0.4993487126209595,0.66440284,0.1185037642481956,24,[ARC] Increase Supply Cap of sUSD on v3 Optimism to 20m (Fast-track),"Current parameters:
+
+Supply cap: 10M sUSD → 20m sUSD (proposed increase of supply cap)
+
+DEX Liquidity: ~$50m+
+
+Normal mode:
+
+LTV: 60%
+
+Liquidation threshold: 75%
+
+Liquidation penal…"
+0x127be8af9854581fdb6565189a0cf351e5ef81d3b4a7ca1e9a059a1994eec6fe,2,1,0.489274745232973,0.5083158,0.10637155284881591,45, [TEMP CHECK] Updated Aave Grants Continuation Proposal,"**Title:** [TEMP CHECK] Updated Aave Grants Continuation Proposal
+
+**Author:** Bill & @0xmigi
+
+**Date:** 09-25-2023
+
+---
+
+Thank you to everyone who participated in the TEMP CHECK: …"
+0x6f70e60abd398e1ff04ff6a78cd313b69d47df84e42b790c14c273dc5ab31674,2,0,0.4860349341531415,0.70056385,0.06008894582246912,41,[ARFC] Bug bounties proposal,"## Summary
+
+Proposal for the community to pre-approve the distribution of a set of bug bounties submitted to Aave by independent security researchers.
+
+## Description
+
+An extensive…"
+0xf4aec3fbab5096752be96f0e5b522f37318c1902cf8b897b049b7a94d478de73,2,0,0.4794289640860624,0.68605775,0.10069193964190135,60,[ARFC] Add MKR to Ethereum v3,"---
+
+Title: [ARFC] Add MKR to Ethereum v3
+Author: @Llamaxyz - DeFi_Consulting (@matthewgraham), ACI (@MarcZeller) and 3SE
+Dated: 2023-02-18
+
+---
+
+# Summary
+
+This proposal presents …"
+0xf9706ff43ce8e3d3c887e98e6e2b59fdce7d9dc371245464e91f8b03df210e0a,0,1,0.4763585790570647,0.6953691,0.06862190237872678,108,AAVE on Harmony Recovery Plan,AAVE protocol is to spend all of Harmony’s rOne distributions and 50% of all AAVE treasury profits coming in to buy and replace collateral put in by AAVE users into AAVE on Harmony…
+0xba25ccc6ec9c6638788e7337b892c37b52a843de4b8d7e273a0bb25b90947b81,2,0,0.4686979567643928,0.6299785,0.08000381298850293,53,Aave Grants DAO Renewal Approval,"# Summary
+We are looking to renew the program for the next two quarters by providing $6 million dollars in AAVE ($3 million per quarter). This is the third proposal for AGD. Aave G…"
+0xecd62eb5dca71e47e7e1d0e88f8e6127857c051bea190fe0eb665636b33caa62,2,0,0.4657188645148264,0.849889,0.16806997205760027,109,"Title: [ARFC] Expansion of ""Orbit"" - A DAO Funded Delegate Platform Initiative","---
+
+### Title: [ARFC] Expansion of ""Orbit"" - A DAO Funded Delegate Platform Initiative
+### Author: Marc Zeller @marczeller - Aave Chan Initiative
+### Date: 2023-09-07
+
+---
+
+## Sum…"
+0xecdaaaffd060ca378411e16d738b354a728c13f3f59db3dd252013e99ef6ffa6,0,1,0.46156627681371154,0.5014989,0.06468956320135442,21,Add TerraUSD to Aave V2,"---
+aip: <to be assigned>
+title: Add TerraUSD to Aave V2
+status: ARC posted, pending snapshot vote
+author: @larry0x
+shortDescription: Create a new Aave V2 market for UST
+ARC discus…"
+0xba58ab5e24dcaef5490fd8717320f74e3c85aea36811d421b48822d4069b6d45,2,0,0.40898603293082425,0.79061025,0.1373854143045653,83,Launch Aave V3 on Optimism,"**Motivation**
+
+Optimism is proposing to deploy Aave V3 onto Optimism to bring one of DeFi’s most trusted lending protocols to the future of Ethereum. We want to support users who …"
+0x5b621efc471aa634453ce4b60982d2fa226d82e5cb6770b949489a9c9593863e,2,1,0.3582027500783036,0.5307488,-0.09198907762765883,7,[ARFC] Gauntlet recommendation for MAI / MIMATIC deprecation phase 2,"## Summary
+
+A proposal to make parameter changes on Aave Optimism v3. For more details, see the full forum post [here](https://governance.aave.com/t/arfc-gauntlet-recommendation-fo…"
+QmbzqFQRMxicKMLLKwAf6bZ75hYNYEDkgnTiAsdsukcAFH,2,0,0.3478982464318305,0.56572133,0.12482780174371685,11, LEND/AAVE migration and activation of the Safety Module,"The LEND → AAVE migration includes the activation of the initial implementation of the Aave Protocol Safety Module, which requires an initial emission of AAVE to incentivize partic…"

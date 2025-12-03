@@ -1,0 +1,12 @@
+{
+  "id2label": {
+    "0": "fail",
+    "1": "abstain",
+    "2": "pass"
+  },
+  "label2id": {
+    "fail": 0,
+    "abstain": 1,
+    "pass": 2
+  }
+}

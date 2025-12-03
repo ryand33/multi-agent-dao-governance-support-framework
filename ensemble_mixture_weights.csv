@@ -1,0 +1,3 @@
+Agent,Weight
+proposal_agent,0.25
+community_stance_agent,0.75
